@@ -1,4 +1,4 @@
-nclude "main.h"
+#include "main.h"
 
 /**
  * path_execute - executes a command in the path
